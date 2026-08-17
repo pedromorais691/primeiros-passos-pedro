@@ -6,10 +6,19 @@ head{
     margin:0 auto;
     border: 5px solid rgb(238, 222, 130);
     padding: 16px;
+}
 main{
     background-color: white;
     color: blueviolet;
     text-align:center;
     max-width: 800px;
     margin: o auto;
+    width: 80px;
+    height: 80px;
+}
+div p{
+    font-weight: bold;
+}
+.artigo-autor{
+    font-weight: bold;
 }
